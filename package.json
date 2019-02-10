@@ -6,7 +6,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:deploy": "ionic-app-scripts build && gh-pages -d ./www",
+    "build:deploy": "ng build --prod && gh-pages -d ./www",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
