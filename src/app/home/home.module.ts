@@ -5,12 +5,18 @@ import { FormsModule } from '@angular/forms';
 import { RouterModule } from '@angular/router';
 
 import { HomePage } from './home.page';
+import { QuillModule } from 'ngx-quill';
 
 @NgModule({
   imports: [
     CommonModule,
     FormsModule,
     IonicModule,
+    QuillModule.forRoot({
+      modules: {
+        syntax: true
+      }
+    }),
     RouterModule.forChild([
       {
         path: '',
