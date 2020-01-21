@@ -32,6 +32,9 @@ XRP Wallet Address:
 To get it editable add
 
 ```
+@import '~quill/dist/quill.core.css';
+@import '~quill/dist/quill.snow.css';
+
 [contenteditable] {
     -webkit-user-select: text;
     user-select: text;
