@@ -2,7 +2,7 @@
 
 Example of [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) and ionic v4
 
-[Live Demo](https://killercodemonkey.github.io/ngx-quill-ionic-v4/)
+[Live Demo](https://killercodemonkey.github.io/ngx-quill-ionic/)
 
 ## Donate/Support
 
