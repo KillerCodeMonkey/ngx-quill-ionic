@@ -1,6 +1,6 @@
-# ngx-quill-ionic-v4
+# ngx-quill-ionic
 
-Example of [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) and ionic v4
+Example of [ngx-quill](https://github.com/KillerCodeMonkey/ngx-quill) and ionic
 
 [Live Demo](https://killercodemonkey.github.io/ngx-quill-ionic/)
 
