@@ -4,6 +4,13 @@
     "outDir": "../out-tsc/app",
     "types": []
   },
+  "angularCompilerOptions": {
+    "enableIvy": true,
+    "strictTemplates": true,
+    "strictInjectionParameters": true,
+    "strictMetadataEmit": false,
+    "trace": true
+  },
   "exclude": [
     "test.ts",
     "**/*.spec.ts"

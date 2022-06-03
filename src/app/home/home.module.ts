@@ -12,11 +12,13 @@ import { QuillModule } from 'ngx-quill';
     CommonModule,
     FormsModule,
     IonicModule,
+
     QuillModule.forRoot({
       modules: {
         syntax: true
       }
     }),
+
     RouterModule.forChild([
       {
         path: '',
